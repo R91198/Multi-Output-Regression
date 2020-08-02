@@ -1,1 +1,1 @@
-# Multi-Output-Regression
+# Multi-Output Regression
